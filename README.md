@@ -43,10 +43,4 @@ I've always been fascinated by technology since I was a kid, after finishing sch
 <a href="http://www.github.com/ArthurVenicio03"><img src="https://github-readme-stats.vercel.app/api?username=ArthurVenicio03&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArthurVenicio03's GitHub stats" /></a>  
 
 
-##
- 
-<div>
 
-  <a href="https://instagram.com/77Arthurr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-</div>
