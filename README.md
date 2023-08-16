@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Venicio
 ======================================================================================================================================
 
-Fullstack Developer
+Back-End Java Developer | DevOps 
 -------------------
 
 I've always been fascinated by technology since I was a kid, after finishing school I started studying programming and I'm currently studying computer science at college. I've always enjoyed learning new things and the technology area has provided me with a lot of experience and knowledge.
