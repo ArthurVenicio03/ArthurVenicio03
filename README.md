@@ -6,7 +6,7 @@
 
 ![Profile Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a Back-End Java Developer and DevOps enthusiast based in Brazil. I've been passionate about technology since childhood and have pursued my interest in programming. Currently, I'm studying computer science in college, which has further enriched my knowledge and experience in the tech field.
+I'm a Full Stack Javascript Developer and DevOps enthusiast based in Brazil. I've been passionate about technology since childhood and have pursued my interest in programming. Currently, I'm studying computer science in college, which has further enriched my knowledge and experience in the tech field.
 
 **Contact Me:**
 - Email: [arthurvenicio3@gmail.com](mailto:arthurvenicio3@gmail.com)
